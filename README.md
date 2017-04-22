@@ -3,4 +3,4 @@
 
 Version history
 
- * [1.0.0 - Live](https://github.com/JabsWeb/CryWarfis/tree/tag/1.0.0)
+ * [1.0.0 - Live](https://github.com/JabsWeb/CryWarfis/releases/tag/v1.0.0)
